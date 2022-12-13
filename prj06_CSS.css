@@ -1,0 +1,24 @@
+
+
+
+/*FOLHA DE ESTILOS*/
+
+/*superclasses*/
+
+body{background-color: #a52a2a;}
+h1{font: bold 36px arial; color: #60000; text-align: center;}
+h2{font: bold 24px arial; color: #04080; text-align: center;}
+
+/*subclasses*/
+
+p.normal{font: 17px/1.5 verdana; text-align: justify;}
+p.legenda{font: 17px arial narrow; text-align: center; width: 650px; margin: 0px auto;}
+img.figura{width: 650px; border: 2px solid #000000; margin: 0px auto; display: block;}
+
+/*instâncias*/
+
+#base{width: 840px; padding: 29px; border: 1px solid #000000; margin: 0px auto; background-color: #ffffff;}
+
+
+
+
